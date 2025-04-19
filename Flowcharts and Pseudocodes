@@ -1,8 +1,0 @@
-# Pseudocode to calculate the area of a circle
-
-Start
-Input Radius
-Pi=3.14159
-Area=Pi*Radius*Radius
-Output Area
-Exit
