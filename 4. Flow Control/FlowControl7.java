@@ -1,0 +1,15 @@
+//Continue Keyword(to skip an iteration)
+import java.util.*;
+
+public class FlowControl7 {
+    public static void main(String args []) {
+        Scanner sc = new Scanner(System.in);
+       for(int i = 1; i <= 5; i++) {
+        if(i == 3) {
+            continue;
+        }
+        System.out.print(i);
+       }
+        sc.close();
+    }
+}
